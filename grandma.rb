@@ -4,6 +4,8 @@ def speak_to_grandma(string)
     "I LOVE YOU TOO PUMPKIN!"
   elsif string == "Hi Nana, how are you?"
     "HUH?! SPEAK UP, SONNY!"
+  elsif string == "Hi!"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 # Whatever you say to grandma, she should respond with
